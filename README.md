@@ -5,9 +5,9 @@
 random-words [GitHub](https://github.com/punkave/random-words) [NPM](https://www.npmjs.com/package/random-words) projesi düzenlenerek oluşturulmuştur.
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EnesKeremAYDIN.rastgelekelime)](#)
-[![Discord](https://discord.com/api/guilds/718831818589339701/widget.png)](https://discord.gg/jkrBmQR)
+[![Discord](https://discord.com/api/guilds/718831818589339701/widget.png)](https://discord.gg/wUP74GZ)
 [![Steam](https://img.shields.io/badge/donate-steam-blue?logo=Steam&style=flat-square)](https://steamcommunity.com/tradeoffer/new/?partner=434566573&token=g789u6Uv)
-[![Patreon](https://img.shields.io/badge/Donate-Patreon-red.svg)](https://discord.gg/jkrBmQR)
+[![Patreon](https://img.shields.io/badge/Donate-Patreon-red.svg)](https://discord.gg/wUP74GZ)
 [![NPM Sürüm](https://img.shields.io/npm/v/rastgelekelime.svg?maxAge=3600)](https://www.npmjs.com/package/rastgelekelime)
 [![NPM İndirme Sayısı](https://img.shields.io/npm/dt/rastgelekelime.svg?maxAge=3600)](https://www.npmjs.com/package/rastgelekelime)
 [![Kod satırı sayısı](https://tokei.rs/b1/github/EnesKeremAYDIN/rastgelekelime)](https://github.com/EnesKeremAYDIN/rastgelekelime)
